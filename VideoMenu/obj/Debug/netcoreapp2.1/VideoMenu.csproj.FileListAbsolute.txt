@@ -1,0 +1,11 @@
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\bin\Debug\netcoreapp2.1\VideoMenu.deps.json
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\bin\Debug\netcoreapp2.1\VideoMenu.runtimeconfig.json
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\bin\Debug\netcoreapp2.1\VideoMenu.runtimeconfig.dev.json
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\bin\Debug\netcoreapp2.1\VideoMenu.dll
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\bin\Debug\netcoreapp2.1\VideoMenu.pdb
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\obj\Debug\netcoreapp2.1\VideoMenu.csprojAssemblyReference.cache
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\obj\Debug\netcoreapp2.1\VideoMenu.csproj.CoreCompileInputs.cache
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\obj\Debug\netcoreapp2.1\VideoMenu.AssemblyInfoInputs.cache
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\obj\Debug\netcoreapp2.1\VideoMenu.AssemblyInfo.cs
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\obj\Debug\netcoreapp2.1\VideoMenu.dll
+C:\Users\Kent Juul\Desktop\c#\FirstCoreSolution\VideoMenu\obj\Debug\netcoreapp2.1\VideoMenu.pdb
